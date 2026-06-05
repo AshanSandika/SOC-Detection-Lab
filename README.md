@@ -1,4 +1,4 @@
-# Detection Lab v1
+# SOC-Detection-Lab
 
 ## Description
 This project demonstrates attack detection using Linux logs.
